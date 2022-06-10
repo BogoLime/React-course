@@ -1,0 +1,8 @@
+button {
+    align-self: flex-start;
+    background-color: rgb(85, 26, 141);
+    font-size: 1.2rem;
+    padding:0.2rem;
+    color:white;
+    border-radius:5px
+}

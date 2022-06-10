@@ -1,0 +1,18 @@
+
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width:90%;
+    height:90%
+}
+
+label{
+    font-weight: 600;
+}
+
+input{border-color: black;
+font-size: 1rem;
+font-weight: 500;
+border-radius: 5px;}

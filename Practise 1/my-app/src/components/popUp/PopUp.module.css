@@ -1,0 +1,29 @@
+.wrapper {
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    background-color: rgba(64, 60, 60, 0.648);
+    z-index: 15;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box{
+    background-color: white;
+    width: 50%;
+    height: 20%;
+    border-radius: 5px;
+    border-top: 2rem solid purple;
+    padding-left: 1rem;
+    display: flex;
+}
+
+.button{
+    align-self: center;
+    justify-self: flex-end;
+}
+
+.hidden{
+    display: none;
+}
